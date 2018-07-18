@@ -1,2 +1,1 @@
-ni hao wo de shi jie xi wang jin hou de 
-mei yi tian dou hui you xin de shou huo
+Hello my world, thank you all the way!
